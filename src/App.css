@@ -141,4 +141,10 @@ button:hover {
   background-color: #c82333;
 }
 
+.filter-sort button{
+  padding: 8px;
+  margin-left: 2%;
+  width: 10%;
+}
+
 

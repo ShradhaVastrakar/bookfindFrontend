@@ -5,6 +5,8 @@ import Navbar from './Components/Navbar';
 import AddBooks from './Components/AddBooks';
 import Mybooks from './Components/Mybooks';
 
+// frontend deployes link =https://singular-dasik-8dabd4.netlify.app/
+
 function App() {
   return (
     <div className="App">
